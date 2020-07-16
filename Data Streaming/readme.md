@@ -1,4 +1,4 @@
-zTask1.py: Implemented a Bloom Filter to estimate whether the city of a coming business in
+Task1.py: Implemented a Bloom Filter to estimate whether the city of a coming business in
 the data stream has shown before using the YELP dataset
 
 Task2.py: Implemened the Flajolet-Martin algorithm (including the step of combining estimations
